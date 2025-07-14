@@ -104,12 +104,12 @@ img {
 }
 
 .black-box {
+    width: 100%;
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
-    padding: 20px;
     border-radius: 15px;
     display: inline-block;
-    margin: 20px auto;
+    margin: auto;
     text-align: center;
     justify-content: center;
 }
