@@ -110,6 +110,17 @@ img {
     border-radius: 15px;
     display: inline-block;
     margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+
+.black-box1 { 
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    display: inline-block;
+    margin: auto;
     text-align: left;
     justify-content: left;
 }
@@ -120,3 +131,4 @@ img {
     text-align: right;
     padding: 3em 3em;
 }
+
